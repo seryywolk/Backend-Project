@@ -1,5 +1,7 @@
 # BackEnd-Project
 
+A complete backend user login and registration + email verification system.
+
 This project was built on IntelliJ CE where the Spring dependencies and Database are not available, but I did my best. 
 To note that the project is incomplete due to IntelliJ CE. 
 
